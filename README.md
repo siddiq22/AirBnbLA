@@ -20,9 +20,13 @@ Visualization Tools: Used Seaborn, Matplotlib, and Plotly for static and interac
 
 ### 📌 Visualizations Included
 ✔ Scatter Plots: Price vs Availability, Neighborhood-wise Price Distribution
+
 ✔ Bar Charts: Top 10 Neighborhoods by Reviews, Room Type Distribution
+
 ✔ Treemap: Distribution of Listings by Neighborhood
+
 ✔ Sunburst Chart: Hierarchical view of Airbnb market trends
+
 ✔ Clustered Bar Charts: Neighborhood Group vs Room Type Price Trends
 
 ### 🚀 Technologies Used
@@ -38,5 +42,7 @@ Interactive sunburst & treemap charts reveal deep insights into the pricing stru
 
 ### 📌 Next Steps
 🔹 Perform predictive analysis on Airbnb pricing trends.
+
 🔹 Build a dashboard using Power BI or Tableau for better interactive exploration.
+
 🔹 Apply clustering techniques (K-Means) to group similar listings.
