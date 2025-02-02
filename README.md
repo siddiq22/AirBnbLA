@@ -10,7 +10,7 @@ Identify top neighborhoods by average price, number of listings, and total revie
 Create interactive Treemap and Sunburst charts to show hierarchical relationships in the data.
 
 ### 📂 Data Source
-The dataset used in this project is sourced from Inside Airbnb, which provides publicly available Airbnb listing data for various cities worldwide. The data includes details such as price, room type, availability, number of reviews, neighborhood information, and host details.
+The dataset used in this project is sourced from [Inside Airbnb](http://insideairbnb.com/),, which provides publicly available Airbnb listing data for various cities worldwide. The data includes details such as price, room type, availability, number of reviews, neighborhood information, and host details.
 
 ### 📊 Data & Methodology
 Dataset: Airbnb listings dataset with features like price, room type, availability, reviews, and neighborhood details.
