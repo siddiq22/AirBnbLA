@@ -31,7 +31,9 @@ Visualization Tools: Used Seaborn, Matplotlib, and Plotly for static and interac
 
 ### 🚀 Technologies Used
 Python 🐍 (Pandas, NumPy)
+
 Data Visualization 📊 (Matplotlib, Seaborn, Plotly)
+
 Jupyter Notebook 💻 for interactive analysis
 
 ### 📢 Insights & Findings
